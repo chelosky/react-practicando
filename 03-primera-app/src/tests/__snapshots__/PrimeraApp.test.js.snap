@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Primera App test 1`] = `
+<Fragment>
+  <h1>
+    KALADIN
+  </h1>
+  <p>
+    Relleno
+  </p>
+</Fragment>
+`;

@@ -7,4 +7,5 @@ import './index.css';
 
 const divRoot = document.querySelector('#root');
 
-ReactDOM.render( <CounterApp /> , divRoot);
+// ReactDOM.render( <CounterApp /> , divRoot);
+ReactDOM.render( <PrimeraApp saludo="goku" /> , divRoot);
