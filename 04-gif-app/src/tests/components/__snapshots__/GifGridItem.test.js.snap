@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GIFGRIDITEM should be created 1`] = `
+<div
+  className="card animate__animated animate__fadeIn"
+>
+  <img
+    alt="Titulo xd"
+    src="https://localhost/algo.jpg"
+  />
+  <p>
+     
+    Titulo xd
+     
+  </p>
+</div>
+`;
