@@ -16,7 +16,6 @@ export const AddCategory = ({ setCategories  }) => {
             setCategories( item => [ value, ...item ] );
             setValue('');
         }
-
     }
 
     return (

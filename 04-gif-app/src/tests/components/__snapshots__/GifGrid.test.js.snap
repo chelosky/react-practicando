@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GifGrid Snapshot 1`] = `
+<Fragment>
+  <h3>
+     
+    Dragon Ball Z
+     
+  </h3>
+  <p
+    className="animate__animated animate__flash"
+  >
+    Cargando...
+  </p>
+  <div
+    className="card-grid"
+  />
+</Fragment>
+`;
+
+exports[`GifGrid should  show images when load item in useFetchGifs 1`] = `
+<Fragment>
+  <h3>
+     
+    Dragon Ball Z
+     
+  </h3>
+  <div
+    className="card-grid"
+  >
+    <GifGridItem
+      id="AAA"
+      key="AAA"
+      title="titulo AAA"
+      url="https://localhost.com/cosa.jpg"
+    />
+  </div>
+</Fragment>
+`;
